@@ -26,6 +26,7 @@ kanban-plugin: board
 - [ ] [[landing-page-redesign]]
 - [ ] [[expired-cookie]]
 - [ ] [[status-object]]
+- [ ] [[error-000]]
 
 
 ## To Do
@@ -67,7 +68,7 @@ kanban-plugin: board
 - [ ] [[004-merge-errors]]
 - [ ] [[003-merge-conflicts]]
 - [ ] [[001-perists-sessions]]
-- [ ] [[001. Zod Error]]
+- [ ] [[001-zod-error]]
 
 
 
