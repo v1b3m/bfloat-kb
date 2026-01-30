@@ -1,0 +1,3 @@
+- You don't even need to use docker, SOC-2, HIPPA
+	- Deploy their services in their own cloud
+	- 
