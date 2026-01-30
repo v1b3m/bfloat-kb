@@ -71,3 +71,33 @@ I don't see any of our debug logs
 **Electron browser console:** /Users/v1b3m/Dev/bfloat/bfloat-ide/bfloat-kb/pg/console.txt
 **IDE Node Console:** /Users/v1b3m/Dev/bfloat/bfloat-ide/bfloat-kb/pg/ide-node-console.txt
 
+---
+
+### 006
+
+I am adding image attachments to chat. It's still failing, we've added debug logs to figure out what's failing, however, I don't see any of the debug logs
+
+**Electron browser console:** /Users/v1b3m/Dev/bfloat/bfloat-ide/bfloat-kb/pg/console.txt
+**IDE Node Console:** /Users/v1b3m/Dev/bfloat/bfloat-ide/bfloat-kb/pg/ide-node-console.txt
+
+check the unstaged git changes for the progress
+
+----
+
+### 007
+
+As soon as I hit send, the attachments disappear from the UI. The chat is also not getting the images.
+
+Console logs available at `/Users/v1b3m/Dev/bfloat/bfloat-ide/bfloat-kb/pg/console.txt`
+
+---
+
+### 008
+
+Here are the logs (`/Users/v1b3m/Dev/bfloat/bfloat-ide/bfloat-kb/pg/console.txt`), I don't see the images in the chat. Do we need to update the backend?
+
+---
+
+### 009
+
+The attachments need to show up alongside the message text, it's only minimal for a user to see any attachments they have sent

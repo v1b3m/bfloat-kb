@@ -13,6 +13,9 @@ kanban-plugin: board
 - [ ] [[git-bug]]
 - [ ] [[workos-issue]]
 - [ ] [[restore]]
+- [ ] [[teams]]
+- [ ] [[team-creation-bug]]
+- [ ] [[integrations]]
 
 
 ## To Do

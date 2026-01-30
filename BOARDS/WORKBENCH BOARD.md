@@ -27,6 +27,7 @@ kanban-plugin: board
 - [ ] [[expired-cookie]]
 - [ ] [[status-object]]
 - [ ] [[error-000]]
+- [ ] [[shared-projects]]
 
 
 ## To Do

@@ -33,6 +33,30 @@
             }
           },
           {
+            "id": "adde04e53910a624",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "BOARDS/APP ENGINEER BOARD.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "APP ENGINEER BOARD"
+            }
+          },
+          {
             "id": "f7a987dc969b2b86",
             "type": "leaf",
             "state": {
@@ -59,9 +83,65 @@
               "icon": "lucide-file",
               "title": "images-attachments"
             }
+          },
+          {
+            "id": "50586138d183203c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "teams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "teams"
+            }
+          },
+          {
+            "id": "07a3332fb73d39ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "team-creation-bug.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "team-creation-bug"
+            }
+          },
+          {
+            "id": "93858982937bff47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "integrations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "integrations"
+            }
+          },
+          {
+            "id": "3619e7a89b6a1ef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shared-projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shared-projects"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -221,15 +301,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ea504140fa9a07da",
+  "active": "3619e7a89b6a1ef0",
   "lastOpenFiles": [
-    "pg/ide-node-console.txt",
+    "shared-projects.md",
     "BOARDS/WORKBENCH BOARD.md",
+    "BOARDS/APP ENGINEER BOARD.md",
+    "integrations.md",
+    "team-creation-bug.md",
+    "teams.md",
+    "images-attachments.md",
+    "pg/raw.html",
+    "pg/ide-node-console.txt",
     "001-zod-error.md",
     "error-000.md",
-    "images-attachments.md",
     "Claude sessions 00.md",
-    "BOARDS/APP ENGINEER BOARD.md",
     "BOARDS",
     "Untitled Kanban 1.md",
     "Untitled.base",
