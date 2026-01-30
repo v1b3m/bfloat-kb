@@ -11,10 +11,23 @@
             "id": "8ff43f7ad1c1c904",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "BOARDS/WORKBENCH BOARD.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "WORKBENCH BOARD"
             }
           }
         ]
@@ -173,9 +186,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "8ff43f7ad1c1c904",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Claude sessions 00.md",
+    "BOARDS/WORKBENCH BOARD.md",
+    "BOARDS/APP ENGINEER BOARD.md",
+    "BOARDS",
+    "Untitled Kanban 1.md",
+    "Untitled.base",
+    "Untitled Kanban.md"
+  ]
 }
