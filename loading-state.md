@@ -1,0 +1,3 @@
+'Setting up convex...' is a good start, however, it is not good enough for a loading indicator. We could maybe have a border spin around the input to show something is going on... We need more visual feedback.
+
+We need to show loading, or working state more visually. You can research on best practices...

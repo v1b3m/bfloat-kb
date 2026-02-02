@@ -7,27 +7,21 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] [[Claude sessions 00]]
-- [ ] [[002-zod-error]]
 - [ ] [[22-01-2025]]
-- [ ] [[23-01-2026_standup]]
 - [ ] [[firebase-support]]
 - [ ] [[2026-01-23-auto-deploy]]
-- [ ] [[submission-step]]
-- [ ] [[deploy-failures]]
 - [ ] [[26-01-2026]]
-- [ ] [[bug]]
-- [ ] [[gitea-001]]
-- [ ] [[web-deployments]]
-- [ ] [[gitea-002]]
-- [ ] [[configure-northflank]]
-- [ ] [[northflank-keep-in-mind]]
-- [ ] [[connect-northflank]]
-- [ ] [[gitea-to-github]]
-- [ ] [[landing-page-redesign]]
 - [ ] [[expired-cookie]]
-- [ ] [[status-object]]
-- [ ] [[error-000]]
-- [ ] [[shared-projects]]
+- [ ] [[project-path-not-set?]]
+- [ ] [[permissions]]
+- [ ] [[debug-session]]
+- [ ] [[permissions-001]]
+- [ ] [[loading-state]]
+- [ ] [[integrations-path]]
+- [ ] [[expo-toolkit-review]]
+- [ ] [[build-as-bg-process]]
+- [ ] [[firebase-integration]]
+- [ ] [[convex-integration]]
 
 
 ## To Do
@@ -36,7 +30,6 @@ kanban-plugin: board
 - [ ] [[004-claude-should-wait]]
 - [ ] [[auto-error-submission]]
 - [ ] [[configure-backend]]
-- [ ] [[images-attachments]]
 
 
 ## In Progress
@@ -47,21 +40,44 @@ kanban-plugin: board
 
 ## In Review
 
-- [ ] [[let-claude-handle-deployments]]
 
 
 ## To Show Out
 
+
+
+## Complete
+
+- [ ] [[images-attachments]]
+- [ ] [[let-claude-handle-deployments]]
 - [ ] [[dont-prompt-for-password]]
 - [ ] [[com.benafloat.myapp]]
 - [ ] [[logs formatting]]
 - [ ] [[move-domain]]
 - [ ] [[failed build]]
 - [ ] [[bigger-deploy-modal]]
-
-
-## Complete
-
+- [ ] [[submission-step]]
+- [ ] [[deploy-failures]]
+- [ ] [[error-000]]
+- [ ] [[web-deployments]]
+- [ ] [[gitea-002]]
+- [ ] [[terminal-commands]]
+- [ ] [[convex-visual-feedback]]
+- [ ] [[add-convex-directly]]
+- [ ] [[expo-toolkit]]
+- [ ] [[convex-001]]
+- [ ] [[integrations-001]]
+- [ ] [[bug]]
+- [ ] [[shared-projects]]
+- [ ] [[status-object]]
+- [ ] [[configure-northflank]]
+- [ ] [[gitea-to-github]]
+- [ ] [[northflank-keep-in-mind]]
+- [ ] [[connect-northflank]]
+- [ ] [[landing-page-redesign]]
+- [ ] [[23-01-2026_standup]]
+- [ ] [[002-zod-error]]
+- [ ] [[gitea-001]]
 - [ ] [[006-changes-lost-on-reload]]
 - [ ] [[005-apps-wont-run]]
 - [ ] [[Merge feature launch-json-config]]
