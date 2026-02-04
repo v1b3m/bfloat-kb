@@ -22,6 +22,14 @@ kanban-plugin: board
 - [ ] [[build-as-bg-process]]
 - [ ] [[firebase-integration]]
 - [ ] [[convex-integration]]
+- [ ] [[stripe-integration]]
+- [ ] [[firebase-000]]
+- [ ] [[has-integration-secrets]]
+- [ ] [[app-deletion]]
+- [ ] [[conditional-rendering]]
+- [ ] [[fix-stripe-webhook]]
+- [ ] [[stripe-claude-code]]
+- [ ] [[terminal-bug]]
 
 
 ## To Do
