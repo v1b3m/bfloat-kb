@@ -71,63 +71,118 @@
             }
           },
           {
-            "id": "55ad4b5c9bbbfbb1",
+            "id": "0b34a32c453e4b5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fix-stripe-webhook.md",
+                "file": "revenue-cat-out-the-box.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fix-stripe-webhook"
+              "title": "revenue-cat-out-the-box"
             }
           },
           {
-            "id": "0e76dc0cae66a3ad",
+            "id": "949db9f671cda76f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stripe-removed.md",
+                "file": "app-screenshots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stripe-removed"
+              "title": "app-screenshots"
             }
           },
           {
-            "id": "f18c67e7086ea08d",
+            "id": "fef4c483d93156fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stripe-claude-code.md",
+                "file": "next-step-suggestions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stripe-claude-code"
+              "title": "next-step-suggestions"
             }
           },
           {
-            "id": "bcf74d219c5e9bc0",
+            "id": "fc89b1cee7daf927",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terminal-bug.md",
+                "file": "reload-dev-server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "terminal-bug"
+              "title": "reload-dev-server"
+            }
+          },
+          {
+            "id": "e53aefb559347167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "skill-issue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "skill-issue"
+            }
+          },
+          {
+            "id": "b309711ec9a130c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shared-codebase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shared-codebase"
+            }
+          },
+          {
+            "id": "2eeb774da2cf02ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "merge-codebases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "merge-codebases"
+            }
+          },
+          {
+            "id": "2cd3adccc07adb58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shared-ui-for-electron-and-web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shared-ui-for-electron-and-web"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,10 +342,32 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bcf74d219c5e9bc0",
+  "active": "8ff43f7ad1c1c904",
   "lastOpenFiles": [
-    "terminal-bug.md",
+    "shared-ui-for-electron-and-web.md",
+    "migration-plan.md",
+    "web-connector.md",
     "BOARDS/WORKBENCH BOARD.md",
+    "merge-codebases.md",
+    "shared-codebase.md",
+    "skill-issue.md",
+    "app-screenshots.md",
+    "revenue-cat-out-the-box.md",
+    "BOARDS/APP ENGINEER BOARD.md",
+    "how-to-claude-code.md",
+    "Pasted image 20260207061100.png",
+    "reload-dev-server.md",
+    "next-step-suggestions.md",
+    "connected-integrations.md",
+    "revenue-cat-in-the-box.md",
+    "stripe-mcp.md",
+    "secret-leaker.md",
+    "stripe-mismatch.md",
+    "pg/sdk.json",
+    "pg/after.txt",
+    "pg/before.txt",
+    "mcp-tools.md",
+    "terminal-bug.md",
     "stripe-claude-code.md",
     "stripe-removed.md",
     "pg/secrets.env",
@@ -298,24 +375,6 @@
     "expo-toolkit-review.md",
     "expo-toolkit.md",
     "app-deletion.md",
-    "conditional-rendering.md",
-    "has-integration-secrets.md",
-    "firebase-000.md",
-    "convex-integration.md",
-    "firebase-integration-walkthrough.md",
-    "firebase-integration.md",
-    "stripe-integration.md",
-    "how-to-claude-code.md",
-    "claude-code-guide.md",
-    "shared-projects.md",
-    "error-000.md",
-    "build-as-bg-process.md",
-    "integrations-path.md",
-    "add-convex-directly.md",
-    "loading-state.md",
-    "permissions-001.md",
-    "permissions.md",
-    "convex-visual-feedback.md",
     "pg/raw.html",
     "pg/ide-node-console.txt",
     "BOARDS",

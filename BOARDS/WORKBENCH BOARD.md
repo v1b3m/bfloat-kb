@@ -30,6 +30,22 @@ kanban-plugin: board
 - [ ] [[fix-stripe-webhook]]
 - [ ] [[stripe-claude-code]]
 - [ ] [[terminal-bug]]
+- [ ] [[stripe-mcp]]
+- [ ] [[mcp-tools]]
+- [ ] [[stripe-mismatch]]
+- [ ] [[secret-leaker]]
+- [ ] [[revenue-cat-in-the-box]]
+- [ ] [[connected-integrations]]
+- [ ] [[revenue-cat-out-the-box]]
+- [ ] [[app-screenshots]]
+- [ ] [[next-step-suggestions]]
+- [ ] [[reload-dev-server]]
+- [ ] [[skill-issue]]
+- [ ] [[shared-codebase]]
+- [ ] [[merge-codebases]]
+- [ ] [[shared-ui-for-electron-and-web]]
+- [ ] [[migration-plan]]
+- [ ] [[web-connector]]
 
 
 ## To Do
