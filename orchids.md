@@ -1,0 +1,2 @@
+- Good to have someone to compare notes with
+- 

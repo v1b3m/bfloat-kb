@@ -15,7 +15,7 @@ kanban-plugin: board
 - [ ] [[restore]]
 - [ ] [[teams]]
 - [ ] [[team-creation-bug]]
-- [ ] [[integrations]]
+- [ ] [[012-integrations]]
 
 
 ## To Do

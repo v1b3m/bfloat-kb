@@ -1,0 +1,4 @@
+- While setting up convex, "Set up Convex" should be disabled
+- clicking anything inside the input should also not be possible
+- After setting up is done, remove "Set up Convex" button
+- 

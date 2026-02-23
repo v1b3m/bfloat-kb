@@ -1,0 +1,2 @@
+- Ask users to get API Keys from wherever they want to integrate, no OAuth
+- 

@@ -35,6 +35,7 @@
           {
             "id": "c6402285488c7e81",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -42,147 +43,125 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "how-to-claude-code"
             }
           },
           {
-            "id": "adde04e53910a624",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "BOARDS/APP ENGINEER BOARD.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "APP ENGINEER BOARD"
-            }
-          },
-          {
-            "id": "0b34a32c453e4b5c",
+            "id": "298c82fb67fb9288",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "revenue-cat-out-the-box.md",
+                "file": "app-preview-port-bug.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "revenue-cat-out-the-box"
+              "title": "app-preview-port-bug"
             }
           },
           {
-            "id": "949db9f671cda76f",
+            "id": "ecf241884c9ba01e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "app-screenshots.md",
+                "file": "reload-logout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "app-screenshots"
+              "title": "reload-logout"
             }
           },
           {
-            "id": "fef4c483d93156fc",
+            "id": "a3de44d43f8c07c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "next-step-suggestions.md",
+                "file": "009-restart-server-mcp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "next-step-suggestions"
+              "title": "009-restart-server-mcp"
             }
           },
           {
-            "id": "fc89b1cee7daf927",
+            "id": "2e6e225b9a4c6860",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reload-dev-server.md",
+                "file": "013-broken-icons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reload-dev-server"
+              "title": "013-broken-icons"
             }
           },
           {
-            "id": "e53aefb559347167",
+            "id": "4bc377f0e87725ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skill-issue.md",
+                "file": "017-workos-branding-on-login.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "skill-issue"
+              "title": "017-workos-branding-on-login"
             }
           },
           {
-            "id": "b309711ec9a130c6",
+            "id": "3443bc82c1ab0a95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shared-codebase.md",
+                "file": "018-dynamic-port-allocation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shared-codebase"
+              "title": "018-dynamic-port-allocation"
             }
           },
           {
-            "id": "2eeb774da2cf02ad",
+            "id": "4ca22ffc03d2590b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "merge-codebases.md",
+                "file": "019-local-imports.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "merge-codebases"
+              "title": "019-local-imports"
             }
           },
           {
-            "id": "2cd3adccc07adb58",
+            "id": "80d424ee886c34b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shared-ui-for-electron-and-web.md",
+                "file": "020-stripe-connect-error.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shared-ui-for-electron-and-web"
+              "title": "020-stripe-connect-error"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -342,42 +321,48 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8ff43f7ad1c1c904",
+  "active": "80d424ee886c34b0",
   "lastOpenFiles": [
-    "shared-ui-for-electron-and-web.md",
-    "migration-plan.md",
-    "web-connector.md",
+    "017-workos-branding-on-login.md",
+    "016-bfloat-ide.md",
+    "015-2026-02-21-update.md",
+    "009-restart-server-mcp.md",
+    "020-stripe-connect-error.md",
     "BOARDS/WORKBENCH BOARD.md",
-    "merge-codebases.md",
-    "shared-codebase.md",
-    "skill-issue.md",
-    "app-screenshots.md",
-    "revenue-cat-out-the-box.md",
-    "BOARDS/APP ENGINEER BOARD.md",
-    "how-to-claude-code.md",
+    "019-local-imports.md",
+    "018-dynamic-port-allocation.md",
+    "014-app-stopped-suddenly.md",
+    "013-broken-icons.md",
+    "012-integrations.md",
+    "011-convex-message.md",
+    "010-terrible-themes.md",
+    "008-convex-push-bug.md",
+    "007-prompt.md",
+    "006-2026-02-20_worker-errors.md",
+    "005-publish-failing.md",
+    "004-state-management.md",
+    "003-web-publish-bug.md",
+    "001-production-deploys.md",
+    "002-stripe-bug.md",
+    "Pasted image 20260221114514.png",
+    "reload-logout.md",
+    "app-preview-port-bug.md",
+    "logout-cleanup.md",
+    "preview-bug.md",
+    "preview-component-size.md",
+    "Screenshot 2026-02-21 at 06.06.32.png",
+    "Screenshot 2026-02-21 at 06.04.35.png",
+    "pg/Dockerfile-1",
+    "pg/Dockerfile",
+    "pg/docker-compose-1.yml",
+    "pg/docker-compose.yml",
+    "pg/electron.logs",
+    "pg/console.logs",
+    "Pasted image 20260216114931.png",
     "Pasted image 20260207061100.png",
-    "reload-dev-server.md",
-    "next-step-suggestions.md",
-    "connected-integrations.md",
-    "revenue-cat-in-the-box.md",
-    "stripe-mcp.md",
-    "secret-leaker.md",
-    "stripe-mismatch.md",
     "pg/sdk.json",
     "pg/after.txt",
     "pg/before.txt",
-    "mcp-tools.md",
-    "terminal-bug.md",
-    "stripe-claude-code.md",
-    "stripe-removed.md",
-    "pg/secrets.env",
-    "fix-stripe-webhook.md",
-    "expo-toolkit-review.md",
-    "expo-toolkit.md",
-    "app-deletion.md",
-    "pg/raw.html",
-    "pg/ide-node-console.txt",
-    "BOARDS",
-    "Untitled.base"
+    "pg/secrets.env"
   ]
 }
