@@ -33,135 +33,137 @@
             }
           },
           {
+            "id": "859887f40444f5d9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "c6402285488c7e81",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how-to-claude-code.md",
+                "file": "2026-02-02-how-to-claude-code.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "how-to-claude-code"
-            }
+              "title": "2026-02-02-how-to-claude-code"
+            },
+            "group": "83d0866d6a49870f"
           },
           {
-            "id": "298c82fb67fb9288",
+            "id": "0aac474221e4ed87",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2026-02-02-how-to-claude-code.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 5.410328820577983,
+                  "close": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph of 2026-02-02-how-to-claude-code"
+            },
+            "group": "83d0866d6a49870f"
+          },
+          {
+            "id": "1bf2661b8786da1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "app-preview-port-bug.md",
+                "file": "2026-02-25-bfloat-ide-overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "app-preview-port-bug"
+              "title": "2026-02-25-bfloat-ide-overview"
             }
           },
           {
-            "id": "ecf241884c9ba01e",
+            "id": "edabf97e17eca8b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "reload-logout.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/Pasted image 20260119200429.png",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               },
-              "icon": "lucide-file",
-              "title": "reload-logout"
-            }
-          },
-          {
-            "id": "a3de44d43f8c07c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "009-restart-server-mcp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "009-restart-server-mcp"
-            }
-          },
-          {
-            "id": "2e6e225b9a4c6860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "013-broken-icons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "013-broken-icons"
-            }
-          },
-          {
-            "id": "4bc377f0e87725ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "017-workos-branding-on-login.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "017-workos-branding-on-login"
-            }
-          },
-          {
-            "id": "3443bc82c1ab0a95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "018-dynamic-port-allocation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "018-dynamic-port-allocation"
-            }
-          },
-          {
-            "id": "4ca22ffc03d2590b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "019-local-imports.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "019-local-imports"
-            }
-          },
-          {
-            "id": "80d424ee886c34b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "020-stripe-connect-error.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "020-stripe-connect-error"
+              "icon": "lucide-git-fork",
+              "title": "Graph of Pasted image 20260119200429"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -321,45 +323,50 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "80d424ee886c34b0",
+  "active": "de21089a193f032c",
   "lastOpenFiles": [
-    "017-workos-branding-on-login.md",
-    "016-bfloat-ide.md",
-    "015-2026-02-21-update.md",
-    "009-restart-server-mcp.md",
-    "020-stripe-connect-error.md",
+    "assets/Screenshot 2026-02-21 at 06.04.35.png",
+    "assets/Pasted image 20260119200429.png",
     "BOARDS/WORKBENCH BOARD.md",
-    "019-local-imports.md",
-    "018-dynamic-port-allocation.md",
-    "014-app-stopped-suddenly.md",
-    "013-broken-icons.md",
-    "012-integrations.md",
-    "011-convex-message.md",
-    "010-terrible-themes.md",
-    "008-convex-push-bug.md",
-    "007-prompt.md",
-    "006-2026-02-20_worker-errors.md",
-    "005-publish-failing.md",
-    "004-state-management.md",
-    "003-web-publish-bug.md",
-    "001-production-deploys.md",
-    "002-stripe-bug.md",
-    "Pasted image 20260221114514.png",
-    "reload-logout.md",
-    "app-preview-port-bug.md",
-    "logout-cleanup.md",
-    "preview-bug.md",
-    "preview-component-size.md",
-    "Screenshot 2026-02-21 at 06.06.32.png",
-    "Screenshot 2026-02-21 at 06.04.35.png",
+    "2026-02-25-note-naming-convention.md",
+    "2026-01-22-zod-error.md",
+    "2026-02-25-bfloat-ide-overview.md",
+    "2026-02-25-bfloat-ide-integrations-auth.md",
+    "2026-02-25-bfloat-ide-codebase-map.md",
+    "2026-02-25-bfloat-ide-runtime-architecture.md",
+    "2026-02-25-bfloat-ide-shipping-gaps-and-next-steps.md",
+    "mcp-escaping-test.md",
+    "2026-02-25-obs-mcp-kanban.md",
+    "2026-02-25-obs-mcp-tools.md",
+    "2026-02-25-obs-mcp.md",
+    "mcp-test-note.md",
+    "2026-02-25-2026-02-25.md",
+    "2026-02-02-how-to-claude-code.md",
+    "2026-02-25-window-size.md",
+    "2026-02-24-progress-report.md",
+    "assets/Screenshot 2026-02-24 at 06.54.48.png",
+    "assets/Screenshot 2026-02-24 at 06.51.23.png",
+    "assets/Screenshot 2026-02-24 at 06.39.54 1.png",
+    "assets/Screenshot 2026-02-24 at 06.38.34.png",
+    "2026-02-23-meet-notes.md",
+    "assets/Screenshot 2026-02-24 at 06.39.54.png",
+    "assets/Screenshot 2026-02-24 at 06.39.03.png",
+    "2026-02-23-design-system.md",
+    "2026-02-23-mcp-tools-only.md",
+    "2026-02-23-stripe-connect-error.md",
+    "2026-02-23-show-skill-or-nah.md",
+    "2026-02-23-frontend-bug.md",
+    "2026-02-23-frontend-design.md",
+    "2026-02-23-redesigned-landing-page.md",
+    "assets/Screenshot 2026-02-23 at 09.03.25.png",
+    "assets/Pasted image 20260221114514.png",
+    "assets/Screenshot 2026-02-21 at 06.06.32.png",
     "pg/Dockerfile-1",
     "pg/Dockerfile",
     "pg/docker-compose-1.yml",
     "pg/docker-compose.yml",
     "pg/electron.logs",
     "pg/console.logs",
-    "Pasted image 20260216114931.png",
-    "Pasted image 20260207061100.png",
     "pg/sdk.json",
     "pg/after.txt",
     "pg/before.txt",

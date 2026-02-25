@@ -1,0 +1,14 @@
+- [x] preview default
+- [x] revert input form
+	- [x] if they don't sign in then it's not going to build
+	- [x] login or sign up in the middle
+- [x] stripe live keys being used, resolve this
+	- we should use only dev keys for stripe
+	- check the development variables and resolve this.
+- [x] move title bar icons left
+- [x] Remove copy project from status bar (web)
+- [x] Error message needs to be higher in the UI. it's getting cut off at the bottom.
+- [x] debug should go
+- [ ] the web server for stripe is not getting automatically started, it used to work but not anymore
+- [x] We don't ask if it's web or mobile for GitHub, we should also autodetect on local import too
+- 

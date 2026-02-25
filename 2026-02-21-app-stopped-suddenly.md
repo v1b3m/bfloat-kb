@@ -484,5 +484,5 @@ You could peak into the session to figure out what's going on
 
 **Related issue**
 
-[[009-restart-server-mcp]]
+[[2026-02-21-restart-server-mcp]]
 
