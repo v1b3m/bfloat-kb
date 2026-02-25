@@ -53,7 +53,7 @@ GIT_ACCESS_TOKEN=50d323eb8b90b1539c3ac432a070e86d0d7d7b56
 ### Registry Credentials ID
 
 1. **Account Settings** → **Integrations** → **Registries**
-2. Add your GCP Artifact Registry credentials (see [configure-northflank.md](./configure-northflank.md))
+2. Add your GCP Artifact Registry credentials (see [configure-northflank.md](2026-01-27-configure-northflank.md))
 3. After saving, copy the **Credential ID** shown in the list
 
 ### GCP Values
@@ -111,7 +111,7 @@ Subdomain 'xxx.bfloat.app' not found, and no wildcard parent domain present
 
 **Cause:** Wildcard domain not configured in Northflank.
 
-**Resolution:** Follow the wildcard domain setup in [configure-northflank.md](./configure-northflank.md#step-2-configure-wildcard-domain-in-northflank)
+**Resolution:** Follow the wildcard domain setup in [configure-northflank.md](2026-01-27-configure-northflank.md#step-2-configure-wildcard-domain-in-northflank)
 
 ### Issue 4: "Service must be deployed in the same cluster as the domain's redirect target"
 
@@ -137,7 +137,7 @@ Subdomain cannot be created because its parent domain is configured to redirect 
 **Cause:** Artifact Registry credentials not configured in Northflank.
 
 **Resolution:**
-1. Follow [configure-northflank.md](./configure-northflank.md#step-3-add-artifact-registry-credentials-to-northflank) Step 3
+1. Follow [configure-northflank.md](2026-01-27-configure-northflank.md#step-3-add-artifact-registry-credentials-to-northflank) Step 3
 2. Add the credential ID to your `.env`
 
 ### Issue 6: "lstat /workspace/app/Dockerfile: no such file or directory"
@@ -189,8 +189,8 @@ lstat /workspace/app/Dockerfile: no such file or directory
 
 ## Related Documentation
 
-- [configure-northflank.md](./configure-northflank.md) - Complete setup guide
-- [northflank-keep-in-mind.md](./northflank-keep-in-mind.md) - Scalability considerations
+- [configure-northflank.md](2026-01-27-configure-northflank.md) - Complete setup guide
+- [northflank-keep-in-mind.md](2026-01-27-northflank-keep-in-mind.md) - Scalability considerations
 
 ---
 

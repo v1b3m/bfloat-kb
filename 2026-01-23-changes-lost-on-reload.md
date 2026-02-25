@@ -9,9 +9,9 @@ Wait, after I opened an older project, the current project too resets to the def
 Are we writing projects to the same path? Does this reset when project Id changes? This is a peculiar bug? Let's first debug what's going on
 
 ---
-1. [[test-000]]
-2. [[test-001]]
-3. [[test-002]]
+1. [[2026-01-23-test-000]]
+2. [[2026-01-22-test-001]]
+3. [[2026-01-23-test-002]]
 4. 
 
 ---

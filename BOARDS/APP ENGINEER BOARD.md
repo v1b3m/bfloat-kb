@@ -6,21 +6,21 @@ kanban-plugin: board
 
 ## Back Log
 
-- [ ] [[migrate-local-setup-to-github]]
-- [ ] [[buld-packs]]
-- [ ] [[trim-project]]
-- [ ] [[deployment-table]]
-- [ ] [[git-bug]]
+- [ ] [[2026-01-28-migrate-local-setup-to-github]]
+- [ ] [[2026-01-28-buld-packs]]
+- [ ] [[2026-01-28-trim-project]]
+- [ ] [[2026-01-28-deployment-table]]
+- [ ] [[2026-01-28-git-bug]]
 - [ ] [[workos-issue]]
-- [ ] [[restore]]
-- [ ] [[teams]]
-- [ ] [[team-creation-bug]]
-- [ ] [[012-integrations]]
+- [ ] [[2026-01-28-restore]]
+- [ ] [[2026-01-30-teams]]
+- [ ] [[2026-01-30-team-creation-bug]]
+- [ ] [[2026-01-23-integrations]]
 
 
 ## To Do
 
-- [ ] [[move-to-workos]]
+- [ ] [[2026-01-28-move-to-workos]]
 
 
 ## In Progress
@@ -29,14 +29,14 @@ kanban-plugin: board
 
 ## In Review
 
-- [ ] [[deployed-app-bug]]
+- [ ] [[2026-01-28-deployed-app-bug]]
 
 
 ## Completed
 
-- [ ] [[local-gitea]]
-- [ ] [[git-bug]]
-- [ ] [[Take-bfloat.ai-offline]]
+- [ ] [[2026-01-28-local-gitea]]
+- [ ] [[2026-01-28-git-bug]]
+- [ ] [[2026-01-28-take-bfloat-ai-offline]]
 
 
 
