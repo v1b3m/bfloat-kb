@@ -8,7 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ff43f7ad1c1c904",
+            "id": "f6c3a59e3811d7d2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "BOARDS/IDE Tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "IDE Tasks"
+            }
+          },
+          {
+            "id": "859887f40444f5d9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +45,8 @@
                     false,
                     false,
                     false,
-                    false,
-                    false,
+                    true,
+                    true,
                     false
                   ]
                 }
@@ -33,52 +57,13 @@
             }
           },
           {
-            "id": "859887f40444f5d9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
-            "id": "c6402285488c7e81",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-02-02-how-to-claude-code.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-02-02-how-to-claude-code"
-            },
-            "group": "83d0866d6a49870f"
-          },
-          {
             "id": "0aac474221e4ed87",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2026-02-02-how-to-claude-code.md",
+                "file": "BOARDS/WORKBENCH BOARD.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,22 +92,7 @@
               },
               "pinned": true,
               "icon": "lucide-git-fork",
-              "title": "Graph of 2026-02-02-how-to-claude-code"
-            },
-            "group": "83d0866d6a49870f"
-          },
-          {
-            "id": "1bf2661b8786da1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-02-25-bfloat-ide-overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-25-bfloat-ide-overview"
+              "title": "Graph of WORKBENCH BOARD"
             }
           },
           {
@@ -131,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assets/Pasted image 20260119200429.png",
+                "file": "2026-02-27_exposed-ports.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,11 +129,100 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Pasted image 20260119200429"
+              "title": "Graph of 2026-02-27_exposed-ports"
+            }
+          },
+          {
+            "id": "65144990cdeae4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-25-bfloat-workbench-overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-25-bfloat-workbench-overview"
+            }
+          },
+          {
+            "id": "5ca2b056525730f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-01-23-integrations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-23-integrations"
             }
           }
-        ],
-        "currentTab": 5
+        ]
+      },
+      {
+        "id": "62630c0db46c5598",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "930307b62f5a7250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-03-01_preview-mismatch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-01_preview-mismatch"
+            }
+          },
+          {
+            "id": "f6814516b1cfeab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-03-01_014_web-and-native-ui-mismatch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-01_014_web-and-native-ui-mismatch"
+            }
+          },
+          {
+            "id": "8ff43f7ad1c1c904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-03-01_007_rc-tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-01_007_rc-tools"
+            }
+          },
+          {
+            "id": "7b9c10c1412f8289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-03-01_005_mcp-tools-not-loading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-01_005_mcp-tools-not-loading"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +241,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -195,7 +254,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "overview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,7 +279,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 429.5
   },
   "right": {
     "id": "b63b82799d2e67f3",
@@ -323,44 +382,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "de21089a193f032c",
+  "active": "930307b62f5a7250",
   "lastOpenFiles": [
-    "assets/Screenshot 2026-02-21 at 06.04.35.png",
-    "assets/Pasted image 20260119200429.png",
-    "BOARDS/WORKBENCH BOARD.md",
-    "2026-02-25-note-naming-convention.md",
-    "2026-01-22-zod-error.md",
-    "2026-02-25-bfloat-ide-overview.md",
-    "2026-02-25-bfloat-ide-integrations-auth.md",
-    "2026-02-25-bfloat-ide-codebase-map.md",
-    "2026-02-25-bfloat-ide-runtime-architecture.md",
-    "2026-02-25-bfloat-ide-shipping-gaps-and-next-steps.md",
-    "mcp-escaping-test.md",
-    "2026-02-25-obs-mcp-kanban.md",
-    "2026-02-25-obs-mcp-tools.md",
-    "2026-02-25-obs-mcp.md",
-    "mcp-test-note.md",
-    "2026-02-25-2026-02-25.md",
-    "2026-02-02-how-to-claude-code.md",
-    "2026-02-25-window-size.md",
-    "2026-02-24-progress-report.md",
-    "assets/Screenshot 2026-02-24 at 06.54.48.png",
-    "assets/Screenshot 2026-02-24 at 06.51.23.png",
-    "assets/Screenshot 2026-02-24 at 06.39.54 1.png",
-    "assets/Screenshot 2026-02-24 at 06.38.34.png",
-    "2026-02-23-meet-notes.md",
-    "assets/Screenshot 2026-02-24 at 06.39.54.png",
-    "assets/Screenshot 2026-02-24 at 06.39.03.png",
-    "2026-02-23-design-system.md",
-    "2026-02-23-mcp-tools-only.md",
-    "2026-02-23-stripe-connect-error.md",
-    "2026-02-23-show-skill-or-nah.md",
-    "2026-02-23-frontend-bug.md",
-    "2026-02-23-frontend-design.md",
-    "2026-02-23-redesigned-landing-page.md",
-    "assets/Screenshot 2026-02-23 at 09.03.25.png",
-    "assets/Pasted image 20260221114514.png",
-    "assets/Screenshot 2026-02-21 at 06.06.32.png",
+    "2026-03-01_014_web-and-native-ui-mismatch.md",
+    "2026-03-01_preview-mismatch.md",
+    "BOARDS/IDE Tasks.md",
+    "2026-03-01_004_agent-not-found.md",
+    "2026-03-01_012_revenuecat-continued.md",
+    "2026-03-01_017_cancel-button-bug.md",
+    "2026-03-01_001_connect-integration-modal.md",
+    "2026-03-01_018_not-found-bug.md",
+    "2026-03-01_007_expanded-images.md",
+    "assets/Screenshot 2026-03-01 at 18.14.18.png",
+    "assets/Screenshot 2026-03-01 at 18.14.15.png",
+    "2026-03-01_016_more-restarts.md",
+    "2026-03-01_015_restart-app.md",
+    "2026-03-01_011_restart-app-mcp.md",
+    "2026-03-01_007_rc-tools.md",
+    "2026-03-01_013_rc-followup.md",
+    "assets/Pasted image 20260301113641.png",
+    "assets/Pasted image 20260301113502.png",
+    "2026-03-01_008_broken-screenshots.md",
+    "assets/Pasted image 20260301111654.png",
+    "Untitled.md",
+    "2026-03-01_009_continue-with-rc.md",
+    "2026-03-01_010_cant-type-numbers.md",
+    "2026-03-01_003_broken-terminal.md",
+    "2026-02-28_broken-icons.md",
+    "2026-02-26_codex-not-connected.md",
+    "assets/image.png",
+    "2026-02-28_001_overview.md",
+    "2026-03-01_005_mcp-tools-not-loading.md",
+    "2026-03-01_006_revenue-cat-e2e.md",
+    "2026-03-01_002_no-singleton.md",
+    "2026-03-01_004_broken-images.md",
+    "assets/Pasted image 20260301072746.png",
+    "assets/Pasted image 20260301071951.png",
+    "assets/Screenshot 2026-03-01 at 07.15.45.png",
+    "assets/Pasted image 20260301071608.png",
+    "2026-02-27-bfloat-ide-component-graph.canvas",
     "pg/Dockerfile-1",
     "pg/Dockerfile",
     "pg/docker-compose-1.yml",

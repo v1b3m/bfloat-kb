@@ -40,6 +40,13 @@ See:
 2. Read [[2026-02-25-bfloat-ide-runtime-architecture]] for process boundaries and startup ownership.
 3. Read [[2026-02-25-bfloat-ide-integrations-auth]] for provider auth behavior.
 4. Read [[2026-02-25-bfloat-ide-shipping-gaps-and-next-steps]] before making auth/integration changes.
+## Component Map
+- [[2026-02-27-bfloat-ide-component-map]]
 
-## Historical Context
-- Existing note: [[2026-02-21-bfloat-ide]]
+## Workbench
+
+The IDE is an excerpt from the the `bfloat-workbench` whose overview you can view at [[2026-02-25-bfloat-workbench-overview]]. It IDE is extracted from the workbench and converted to Tauri. We plan on converting the workbech itself to Tauri too in the near future.
+
+---
+
+

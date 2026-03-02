@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"hub","type":"file","x":20,"y":20,"width":420,"height":90,"file":"2026-02-27-bfloat-ide-component-map.md","color":"4"},
+		{"id":"ui","type":"file","x":20,"y":170,"width":420,"height":100,"file":"2026-02-27-bfloat-ide-components-ui.md","color":"2"},
+		{"id":"state","type":"file","x":500,"y":170,"width":420,"height":100,"file":"2026-02-27-bfloat-ide-components-state.md","color":"2"},
+		{"id":"desktop","type":"file","x":980,"y":170,"width":420,"height":100,"file":"2026-02-27-bfloat-ide-components-desktop-bridge.md","color":"3"},
+		{"id":"sidecar","type":"file","x":980,"y":360,"width":420,"height":100,"file":"2026-02-27-bfloat-ide-components-sidecar.md","color":"5"},
+		{"id":"lib","type":"file","x":500,"y":360,"width":420,"height":100,"file":"2026-02-27-bfloat-ide-components-shared-lib.md","color":"6"},
+		{"id":"native","type":"file","x":1460,"y":360,"width":420,"height":100,"file":"2026-02-27-bfloat-ide-components-native-shell.md","color":"1"},
+		{"id":"g1","type":"group","x":0,"y":140,"width":940,"height":360,"label":"Renderer Layer","color":"2"},
+		{"id":"g2","type":"group","x":940,"y":140,"width":980,"height":360,"label":"Runtime Layer","color":"5"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"hub","toNode":"ui","toEnd":"arrow","fromSide":"bottom","toSide":"top"},
+		{"id":"e2","fromNode":"hub","toNode":"state","toEnd":"arrow","fromSide":"bottom","toSide":"top"},
+		{"id":"e3","fromNode":"hub","toNode":"desktop","toEnd":"arrow","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"desktop","toNode":"sidecar","toEnd":"arrow","label":"HTTP/WS bridge","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"sidecar","toNode":"lib","toEnd":"arrow","label":"shared runtime","fromSide":"left","toSide":"right"},
+		{"id":"e6","fromNode":"native","toNode":"sidecar","toEnd":"arrow","label":"spawn/health","fromSide":"left","toSide":"right"},
+		{"id":"e7","fromNode":"ui","toNode":"state","toEnd":"arrow","fromSide":"right","toSide":"left"},
+		{"id":"e8","fromNode":"state","toNode":"desktop","toEnd":"arrow","fromSide":"right","toSide":"left"}
+	]
+}

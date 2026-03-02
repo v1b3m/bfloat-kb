@@ -28,28 +28,90 @@ kanban-plugin: board
 - [ ] [[2026-02-23-meet-notes]]
 - [ ] [[2026-02-23-design-system]]
 - [ ] [[2026-02-24-progress-report]]
+- [ ] [[2026-01-26_follow-up-message]]
+- [ ] [[2026-01-26_app-theme]]
+- [ ] [[2026-02-26_generic-UIs]]
+- [ ] [[2026-02-26_codex-not-connected]]
+- [ ] [[2026-02-26_multi-agent-maybe]]
+- [ ] [[2026-02-26_codex-message-parsing]]
+
 
 ## To Do
 
-- [ ] [[2026-01-23-integrations]]
+- [ ] [[2026-02-06_icons-are-not-loading]]
+- [ ] [[2026-02-26_another-crash]]
+- [ ] [[2026-02-27_more-revenuecat]]
+- [ ] [[2026-02-27_exposed-ports]]
+- [ ] [[2026-02-27_revenue-cat]]
+- [ ] [[2026-02-27_onboarding-ui]]
+- [ ] [[2026-02-27_app-bounds]]
+- [ ] [[2026-02-27_preview-action-buttons]]
+- [ ] [[2026-02-27_longer-error-messages]]
+- [ ] [[2026-02-28_broken-icons]]
+- [ ] 
+- [ ] [[2026-02-28_tab-usage]]
+
 
 ## In Progress
+
+- [ ] [[2026-02-26_ide-project-deletion-cleanup]]
+- [ ] [[2026-02-25-integrations-token-only-no-oauth]]
+- [ ] [[2026-02-27_even-more-integrations]]
+- [ ] [[2026-02-27_revenue-cat]]
+- [ ] [[2026-02-27_stripe-integration]]
+- [ ] [[2026-02-27_revenue-cat-error]]
 
 
 ## In Review
 
-- [ ] [[2026-02-25-window-size]]
+
 
 ## To Show Out
 
 
+
 ## Complete
+
+- [ ] [[2026-02-27_design-system]]
+- [ ] [[2026-02-27_another-black-screen]]
+- [ ] [[2026-02-27_auto-error-reporting]]
+- [ ] [[2026-02-27_deprecated-packages]]
+- [ ] [[2026-02-28_mobile-only-packages]]
+- [ ] [[2026-02-27_agents-md]]
+- [ ] [[2026-02-28_dynamic-ports]]
 
 
 ***
 
 ## Archive
 
+- [ ] [[2026-02-27_interesting-error]]
+- [ ] [[2026-02-27_app-crashing]]
+- [ ] [[2026-02-26_unexpected-crash]]
+- [ ] [[2026-02-26_white-phone-frame]]
+- [ ] [[2026-02-26_error-exiting-project-page]]
+- [ ] [[2026-02-26_iframe-load-bug]]
+- [ ] [[2026-02-26_presentation-bug]]
+- [ ] [[2026-02-26_multiple-sessions]]
+- [ ] [[2026-02-26_project-type-auto-detection]]
+- [ ] [[2026-02-26_git-error]]
+- [ ] [[2026-02-26_monaco-bug]]
+- [ ] [[2026-02-26_expo-logo-4040]]
+- [ ] [[2026-02-26-fix-session-recovery]]
+- [ ] [[2026-01-23-integrations]]
+- [ ] [[2026-02-25-fix-chat-integration-notification-clipping]]
+- [ ] [[2026-02-25-fix-global-toast-bottom-clipping]]
+- [ ] [[2026-02-25-window-size]]
+- [ ] [[2026-02-26-convex-skill-parity-ide-vs-workbench]]
+- [ ] [[2026-02-26_unknown-bug]]
+- [ ] [[2026-02-26-port-frontend-design-skill]]
+- [ ] [[2026-02-26_terrible-UIs]]
+- [ ] [[2026-02-26_init-loader]]
+- [ ] [[2026-02-26_ide-application-mcp-screenshots]]
+- [ ] [[2026-02-26_broken-terminal-text]]
+- [ ] [[2026-02-26_projects.json]]
+- [ ] [[2026-02-26_termial-fails-to-start]]
+- [ ] [[2026-02-26_another-crash-or-not]]
 - [ ] [[2026-02-21-preview-bug]]
 - [ ] [[2026-02-21-preview-component-size]]
 - [ ] [[2026-02-21-app-preview-port-bug]]
@@ -175,6 +237,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,true,true,false],"show-checkboxes":false}
 ```
 %%
