@@ -10,6 +10,9 @@ kanban-plugin: board
 - [ ] [[2026-03-01_006_revenue-cat-e2e]]
 - [ ] [[2026-03-01_012_revenuecat-continued]]
 - [ ] [[2026-03-01_preview-mismatch]]
+- [ ] [[2026-03-02_001_stripe]]
+- [ ] [[2026-03-02_002_rc-dashboard]]
+- [ ] [[2026-03-02_004_publish-mobile]]
 
 
 ## To Do
@@ -22,7 +25,15 @@ kanban-plugin: board
 
 ## Review
 
+- [ ] [[2026-03-02_003_basic-auth-feasibility]]
+- [ ] [[2026-03-02_007_stripe-connect-error]]
 - [ ] [[2026-03-01_014_web-and-native-ui-mismatch]]
+
+
+## Stand Up
+
+- [ ] [[2026-03-02_008_next-js-404-001]]
+- [ ] [[2026-03-02_006_next-js-404]]
 
 
 ## Complete
@@ -54,6 +65,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
 ```
 %%
