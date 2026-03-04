@@ -7,7 +7,7 @@
 
 2. If the convex integration is enough, how can we port it for this codebase that does not use OAuth? Are the provided user variables good enough?
 
-3. Update the task [[2026-03-02_003_basic-auth-implementation]] with enough context for an agent to start working on basic auth after gathering all the details.
+3. Update the task [[2026-03-02_009_basic-auth-implementation]] with enough context for an agent to start working on basic auth after gathering all the details.
 
 ### Acceptance Criteria
 
@@ -54,7 +54,7 @@ Basic Auth (Better Auth on Convex) is feasible in bfloat-ide **without OAuth** b
 
 ### Follow-up
 
-Updated [[2026-03-02_003_basic-auth-implementation]] with implementation-ready context and acceptance criteria.
+Updated [[2026-03-02_009_basic-auth-implementation]] with implementation-ready context and acceptance criteria.
 ## Handoff
 - **What was done:** Analyzed bfloat-workbench OAuth-coupled Convex setup versus bfloat-ide secret-driven flow, produced feasibility conclusions, and updated the follow-up implementation task with implementation-ready scope and acceptance criteria.
 - **Commit:** 1b6496e
@@ -62,3 +62,4 @@ Updated [[2026-03-02_003_basic-auth-implementation]] with implementation-ready c
 - **Decisions made:** Treat Basic Auth as Convex Better Auth; keep non-OAuth secret prerequisites (Convex URL + CONVEX_DEPLOY_KEY) as the canonical path for bfloat-ide.
 - **Known limitations:** No runtime execution of Convex commands npx convex env list and npx convex dev --once was performed in this feasibility task.
 - **How to verify:** Read the updated notes and report; confirm board card is under Review; confirm commit 1b6496e contains the in-repo report.
+- 

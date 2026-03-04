@@ -36,42 +36,58 @@ kanban-plugin: board
 - [ ] [[2026-02-26_codex-message-parsing]]
 
 
-## To Do
+## Changes Needed
 
 - [ ] [[2026-02-06_icons-are-not-loading]]
 - [ ] [[2026-02-26_another-crash]]
+- [ ] [[2026-02-26_ide-project-deletion-cleanup]]
+- [ ] [[2026-02-28_broken-icons]]
+- [ ] [[2026-02-27_longer-error-messages]]
+- [ ] [[2026-02-27_app-bounds]]
 - [ ] [[2026-02-27_more-revenuecat]]
 - [ ] [[2026-02-27_exposed-ports]]
-- [ ] [[2026-02-27_revenue-cat]]
-- [ ] [[2026-02-27_onboarding-ui]]
-- [ ] [[2026-02-27_app-bounds]]
-- [ ] [[2026-02-27_preview-action-buttons]]
-- [ ] [[2026-02-27_longer-error-messages]]
-- [ ] [[2026-02-28_broken-icons]]
-- [ ] 
 - [ ] [[2026-02-28_tab-usage]]
-
-
-## In Progress
-
-- [ ] [[2026-02-26_ide-project-deletion-cleanup]]
-- [ ] [[2026-02-25-integrations-token-only-no-oauth]]
+- [ ] [[2026-02-27_preview-action-buttons]]
 - [ ] [[2026-02-27_even-more-integrations]]
 - [ ] [[2026-02-27_revenue-cat]]
 - [ ] [[2026-02-27_stripe-integration]]
 - [ ] [[2026-02-27_revenue-cat-error]]
+- [ ] [[2026-02-27_onboarding-ui]]
+- [ ] [[2026-02-27_revenue-cat]]
+
+
+## Discovery
+
+
+
+## Discovery In Progress
+
+
+
+## Discovery Review
+
+
+
+## To Do
+
+
+
+## In Progress
+
 
 
 ## In Review
 
 
 
-## To Show Out
+## Stand Up
 
+- [ ] [[2026-03-04_000_git-bug]]
 
 
 ## Complete
 
+- [ ] [[2026-02-25-integrations-token-only-no-oauth]]
 - [ ] [[2026-02-27_design-system]]
 - [ ] [[2026-02-27_another-black-screen]]
 - [ ] [[2026-02-27_auto-error-reporting]]
@@ -237,6 +253,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,true,true,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%

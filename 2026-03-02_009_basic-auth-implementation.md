@@ -55,3 +55,10 @@ Primary sequence:
 - IDE Convex credential model: `app/lib/integrations/credentials.ts`, `app/lib/integrations/convex.ts`
 - Existing setup trigger path: `app/components/project/ProjectSettings.tsx`
 - Workbench reference for prior OAuth-coupled setup: `/Users/v1b3m/Dev/bfloat/bfloat-workbench/apps/web/app/routes/api.projects.$id.setup-convex.ts`
+
+## Handoff
+
+- **What was done:** Implemented non-OAuth Convex auth gating in IDE chat flow and skill instructions. Convex setup now routes to `/convex-auth`, checks required secret contract (`NEXT_PUBLIC_CONVEX_URL` or `EXPO_PUBLIC_CONVEX_URL` + `CONVEX_DEPLOY_KEY`) before triggering auth setup, and returns clear missing-key errors. Updated Convex quick-add secret suggestions to the same contract.
+- **Files touched:** `app/components/chat/Chat.tsx`, `app/components/settings/sections/SecretModal.tsx`, `resources/skills/convex/auth/SKILL.md`.
+- **Board update:** moved `[[2026-03-02_009_basic-auth-implementation]]` from `In Progress` to `Review`.
+- **Known limitations:** Could not verify `npx convex env list`/`npx convex dev --once` end-to-end here because this repo is the IDE codebase, not a generated target app workspace with live Convex credentials.
